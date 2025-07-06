@@ -44,6 +44,7 @@ Choose the best model and perform training and prediction.
 ### Results:  
 
 The code for data processing is here (https://github.com/dv-nova/SF_Diploma/blob/main/Diploma_real_estate_2025_07_06.ipynb)
+Service example is here (https://github.com/dv-nova/SF_Diploma/blob/main/diploma_catboost_web_servise.py)
 
 
 ### Conclusions:  
